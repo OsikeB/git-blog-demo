@@ -14,13 +14,16 @@ ul {
     background-color: plum;
     width: 400px;
     color: black;
+    list-style-type: none;
+    margin: 10px auto 7px auto;
+    text-align: start;
 }
 
 h1 {
     background-color: #000000;
     color: #ffffff;
     margin: 10px auto 50px auto;
-    text-align: start;
+    text-align: center;
     list-style-type: none;
     border-radius: 20px;
 }
