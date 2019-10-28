@@ -1,8 +1,34 @@
 body {
-    background-color: tomato;
+    background-color: #ff6347;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+div {
+    margin-top: 100px;
 }
 
 ul {
-    background-color: yellow;
+    background-color: plum;
+    width: 400px;
     color: black;
+    margin: 10px auto 50px auto;
+    text-align: start;
+    list-style-type: none;
+    border-radius: 20px;
+}
+h1{
+    color: blue;
+
+}
+
+button{
+    background-color: #0000ff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 14px;
+    color: #ffffff;
+    font-size: 1.7rem;
 }
